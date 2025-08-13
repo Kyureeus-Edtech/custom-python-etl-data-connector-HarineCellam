@@ -1,0 +1,3 @@
+MONGO_URI=your_mongo_uri
+DB_NAME=your_database_name
+COLLECTION_NAME=your_collection_name
