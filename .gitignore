@@ -1,0 +1,16 @@
+# Ignore environment and secrets
+.env
+
+# Ignore compiled and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.db
